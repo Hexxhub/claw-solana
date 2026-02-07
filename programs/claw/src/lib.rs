@@ -2,7 +2,7 @@ use anchor_lang::prelude::*;
 use anchor_spl::token::{self, Token, TokenAccount, Transfer, Mint};
 use anchor_spl::associated_token::AssociatedToken;
 
-declare_id!("CLAWxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"); // Placeholder
+declare_id!("QiAZtS7YfibVDTTarBM8bXfCtPFaMJ24BwSijZHg9W8"); // Placeholder
 
 #[program]
 pub mod claw {
